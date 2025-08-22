@@ -82,14 +82,22 @@ To ensure ethical and compliant operation, the system includes:
 ---
 
 ## 📂 Repository Structure
-├── README.md ├── /slides # PowerPoint deck for executive briefing ├── /model_framework # Predictive model logic and documentation ├── /ethics_guidelines # Responsible AI policies and audit templates ├── /roadmap # Implementation timeline and milestones
 
----
+```text
+├── README.md                          # Project overview and documentation
+├── Delinquency_prediction_dataset     # Excel dataset for modeling
+├── EDA_SummaryReport.pdf              # Exploratory Data Analysis summary
+├── Imputation_Guide_Handout.pdf       # Data imputation methodology
+├── Presentation.pptx                  # Executive briefing slides
+├── Task_2_ModelPlan.pdf               # Model planning and strategy document
+├── Tata_Data_Analytics_Glossary.pdf   # Glossary of key analytics terms
+├── Updated_Business_SummaryReport.pdf# Final business impact summary
 
-## 🧭 License & Contact
+```
+
+## 🧭 License
 
 This project is for educational and strategic planning purposes.  
-For questions or collaboration, contact [Bilal](mailto:your.email@example.com).
 
 ---
 
